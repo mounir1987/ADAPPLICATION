@@ -1,0 +1,26 @@
+{
+  "name": "achat-vente",
+  "version": "1.0.0",
+  "description": "api for annonces",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies" :
+  { 
+  	"express" : "",
+  	"mongo-express" : "",
+  	"cheerio" :"",
+  	"httpreq" : "",
+    "mongoose": "",
+    "ejs": "^2.2.4",
+    "request" : "",
+    "promise-simple": "",
+    "moment" : ""
+
+	
+  }
+
+}
